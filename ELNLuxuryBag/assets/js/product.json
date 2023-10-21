@@ -1,0 +1,42 @@
+[
+    {
+        "image": "img/product1.jpg",
+        "name": "BROWN LUXURY BAG",
+        "price": "$1999"
+    },
+    {
+        "image": "img/product2.jpg",
+        "name": "MINI STYLISH BAG",
+        "price": "$2999"
+    },
+    {
+        "image": "img/product3.jpg",
+        "name": "PINK SHOULDER BAG",
+        "price": "$1089"
+    },
+    {
+        "image": "img/product4.jpg",
+        "name": "MINT GREEN SHOULDER BAG",
+        "price": "$1900"
+    },
+    {
+        "image": "img/product5.jpg",
+        "name": "BLUE MINI AESTHETIC WALLET",
+        "price": "$1900"
+    },
+    {
+        "image": "img/product6.jpg",
+        "name": "PINK LONG STYLISH WALLET",
+        "price": "$2099"
+    },
+    {
+        "image": "img/product7.jpg",
+        "name": "PURPLE MONEY POCKET",
+        "price": "$1929"
+    },
+    {
+        "image": "img/product8.jpg",
+        "name": "AESTHETIC MODERN WALLET",
+        "price": "$1799"
+    }
+  ]
